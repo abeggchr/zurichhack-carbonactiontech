@@ -95,3 +95,7 @@ ul.cnss-social-icon li.cn-fa-icon a{background-color:#51aee2!important}ul.cnss-s
     margin-bottom: 0.25em;
     text-align: center;
 }
+
+.builder-item .item--inner {
+    font-family: var(--bodyfontfamily),var(--nv-fallback-ff);
+}
